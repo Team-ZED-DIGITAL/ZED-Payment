@@ -1,17 +1,43 @@
-Proprietary License - ZED DIGITAL SDK
+ZED DIGITAL Commercial SDK License
+Version 1.0 – 2025
 
 Copyright (c) 2025 ZED DIGITAL. All rights reserved.
 
-This software (the "SDK") is licensed, not sold. 
-Permission is granted to the licensee (the paying customer) to integrate 
-this SDK into applications in accordance with a valid commercial agreement 
-with ZED DIGITAL.
+This software and associated documentation files (the "SDK") are licensed, not sold.  
+By installing, copying, or otherwise using the SDK, you agree to be bound by the terms of this License.
 
-Restrictions:
-- Redistribution, sublicensing, or resale of the SDK is prohibited.  
-- Modification of the SDK is prohibited unless expressly permitted in writing.  
-- This SDK may only be used by the licensee under an active paid license.  
+1. Grant of License
+Subject to payment of applicable license fees and compliance with this License,  
+ZED DIGITAL grants you (the "Licensee") a non-exclusive, non-transferable, limited right to:
+- Integrate the SDK into your applications for internal or commercial use.  
+- Distribute applications that include the SDK, provided such applications do not expose or distribute the SDK itself.  
 
-Warranty Disclaimer:
-The SDK is provided "AS IS", without warranty of any kind, express or implied.  
-ZED DIGITAL shall not be liable for any damages arising from the use of the SDK.
+2. Restrictions
+You may NOT:
+- Copy, modify, reverse engineer, decompile, or disassemble the SDK, except as permitted by law.  
+- Redistribute, sublicense, resell, or otherwise make the SDK available to third parties.  
+- Use the SDK without a valid paid license agreement from ZED DIGITAL.  
+
+3. Ownership
+The SDK is the intellectual property of ZED DIGITAL and is protected by copyright and other laws.  
+All rights not expressly granted are reserved by ZED DIGITAL.  
+
+4. Termination
+This License is effective until terminated.  
+ZED DIGITAL may terminate this License immediately if you breach its terms.  
+Upon termination, you must stop using the SDK and destroy all copies.  
+
+5. Warranty Disclaimer
+The SDK is provided "AS IS", without warranty of any kind, express or implied,  
+including but not limited to warranties of merchantability, fitness for a particular purpose,  
+and non-infringement.  
+
+6. Limitation of Liability
+In no event shall ZED DIGITAL be liable for any damages, including lost profits,  
+data loss, or business interruption, arising from the use or inability to use the SDK.  
+
+7. Governing Law
+This License shall be governed by and construed in accordance with the laws of [Your Country/State].
+
+For commercial licensing inquiries, please contact:  
+📧 helpdesk@zed.digital
