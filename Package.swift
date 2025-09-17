@@ -20,7 +20,7 @@ let package = Package(
         .binaryTarget(
             name: "ZEDPayment",
             url: "https://github.com/Team-ZED-DIGITAL/ZED-Payment/releases/download/1.0.0/ZEDPayment.xcframework.zip",
-            checksum: "27294153f28580cde17f1a477ac0e4ec0bda02ea308503ed3a11ec6317b9335c"
+            checksum: "2d26b12e54f50bbed8c9a132f5e452a2141e5ec29abd0ad9229d2e90627a1204"
         )
     ]
 )
