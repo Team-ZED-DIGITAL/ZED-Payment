@@ -31,12 +31,6 @@ It ensures smooth transactions, multiple payment method support, and robust secu
 
 ---
 
-## 🔑 License Key
-This SDK requires a valid **license key** from **ZED DIGITAL**.  
-Please contact our sales team to obtain your license key before integration.  
-
----
-
 ## 📄 License
 This SDK is **commercial software** licensed by **ZED DIGITAL**.  
 Use of this SDK requires a valid commercial license agreement.  
